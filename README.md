@@ -1,4 +1,4 @@
-<img width="363" height="112" alt="589364159-62dde542-1570-40bc-9ba3-7da210e9db7b" src="https://github.com/user-attachments/assets/24601f78-0888-422d-9ed9-50d463bdec04" />
+
 # OS-Linux-commands-Shell-scripting
 Operating systems Lab exercise
 # Linux commands-Shell scripting
@@ -44,7 +44,7 @@ s.n. dasgupta
 cat < file1
 ## OUTPUT
 <img width="363" height="112" alt="589364159-62dde542-1570-40bc-9ba3-7da210e9db7b" src="https://github.com/user-attachments/assets/995b01e8-ca17-407c-b9e7-122fd095adb1" />
-
+<img width="363" height="112" alt="589364159-62dde542-1570-40bc-9ba3-7da210e9db7b" src="https://github.com/user-attachments/assets/24601f78-0888-422d-9ed9-50d463bdec04" />
 cat < file2
 ## OUTPUT
 <img width="373" height="136" alt="589364289-b05e2079-9d9d-4481-8cf1-d4c534e70816" src="https://github.com/user-attachments/assets/cf35722f-d865-49ef-a190-e48af544a0ed" />
